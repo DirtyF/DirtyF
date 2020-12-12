@@ -2,9 +2,9 @@ name: Derniers épisodes du podcast
 on:
  schedule:
    - cron: '0 0 * * 0' 
-workflow_dispatch: 
-jobs:
- update-readme-with-episodes:
+ workflow_dispatch: 
+  jobs:
+  update-readme-with-episodes:
    name: Update README with latest podcast episodes
    runs-on: ubuntu-latest
    steps:
