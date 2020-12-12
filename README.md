@@ -11,5 +11,10 @@ I'm currently focusing on https://forestry.io and https://tina.io to help people
 
 ###  📝 Jamstatic
 <!-- BLOG:START -->
+- [Héberger du statique en France avec Matthias Dugué et Hubert Sablonnière](https://jamstatic.fr/2020/12/08/hebergement-statique-en-france/)
+- [Vers une Jamstack légère et performante, avec Nicolas Goutay](https://jamstatic.fr/2020/11/19/jamstack-legere-et-performante/)
+- [Comparaison des temps de compilation des générateurs de site statique](https://jamstatic.fr/2020/10/31/comparatif-performance-generateurs-de-site-statique/)
+- [La Jamstack n'est rapide que si vous y veillez](https://jamstatic.fr/2020/10/05/la-jamstack-n-est-rapide-que-si-vous-la-rendez-rapide/)
+- [Tout ce que vous devez savoir sur les modules Hugo](https://jamstatic.fr/2020/09/05/tout-savoir-sur-les-modules-hugo/)
 <!-- BLOG:END -->
 
