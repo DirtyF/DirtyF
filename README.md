@@ -4,4 +4,7 @@ I'm currently focusing on https://forestry.io and https://tina.io to help people
 
 # 📩 Derniers épisodes
 <!-- BLOG-POST-LIST:START -->
+- [Héberger du statique en France ?](https://anchor.fm/jamstatic/episodes/Hberger-du-statique-en-France-enhc1t)
+- [Vers une Jamstack légère et performante, avec Nicolas Goutay](https://anchor.fm/jamstatic/episodes/Vers-une-Jamstack-lgre-et-performante--avec-Nicolas-Goutay-emunhp)
+- [Et si on faisait un podcast sur la Jamstack ?](https://anchor.fm/jamstatic/episodes/Et-si-on-faisait-un-podcast-sur-la-Jamstack-ekovh0)
 <!-- BLOG-POST-LIST:END -->
