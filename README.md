@@ -18,3 +18,4 @@ I'm currently focusing on https://forestry.io and https://tina.io to help people
 - [La Jamstack n'est rapide que si vous y veillez](https://jamstatic.fr/2020/10/05/la-jamstack-n-est-rapide-que-si-vous-la-rendez-rapide/)
 <!-- BLOG:END -->
 
+[![Source Karma badge for @DirtyF](https://sourcekarma-og.vercel.app/api/DirtyF/github)](https://sourcekarma.vercel.app/DirtyF)
