@@ -11,11 +11,11 @@ I'm currently focusing on https://forestry.io and https://tina.io to help people
 
 ###  📝 Jamstatic
 <!-- BLOG:START -->
-- [Un site statique de 11 000 pages, c'est possible ?](https://jamstatic.fr/2021/03/09/11000-pages-statiques/)
+- [Un site statique de 11 000 pages, c&#39;est possible ?](https://jamstatic.fr/2021/03/09/11000-pages-statiques/)
 - [Héberger du statique en France, avec Matthias Dugué et Hubert Sablonnière](https://jamstatic.fr/2020/12/08/hebergement-statique-en-france/)
 - [Vers une Jamstack légère et performante, avec Nicolas Goutay](https://jamstatic.fr/2020/11/19/jamstack-legere-et-performante/)
 - [Comparaison des temps de compilation des générateurs de site statique](https://jamstatic.fr/2020/10/31/comparatif-performance-generateurs-de-site-statique/)
-- [La Jamstack n'est rapide que si vous y veillez](https://jamstatic.fr/2020/10/05/la-jamstack-n-est-rapide-que-si-vous-la-rendez-rapide/)
+- [La Jamstack n&#39;est rapide que si vous y veillez](https://jamstatic.fr/2020/10/05/la-jamstack-n-est-rapide-que-si-vous-la-rendez-rapide/)
 <!-- BLOG:END -->
 
 [![Source Karma badge for @DirtyF](https://sourcekarma-og.vercel.app/api/DirtyF/github)](https://sourcekarma.vercel.app/DirtyF)
